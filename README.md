@@ -82,6 +82,7 @@ Agradezco profundamente a las siguientes organizaciones y personas por su invalu
 
 ## 👨‍💻 Autores
 - **Edwin perez** - Autor principal
+
 contacto:
 - [Linkedin](https://www.linkedin.com/in/edwin-perez01/)
 
